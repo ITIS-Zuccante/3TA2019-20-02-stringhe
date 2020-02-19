@@ -2,6 +2,9 @@
 Esercizi sulle stringhe (da Codewars)
 
 ## Esercitazione
+Per ogni esercizio proposto fare un progetto con NetBeans 8.2  
+Il progetto va creato direttamente nel repository dell'esercitazione.  
+
 Il link per i testi degli esercizi da fare è  
 https://www.codewars.com/collections/zucc-3-stringhe
 
@@ -15,11 +18,3 @@ Un elenco di link utili per studiare è:
 - http://www.unife.it/ing/informazione/fond-info-modulo-b/materiale-didattico-aa-2013-14/oop-e-java/stringhe
 - http://informatica.abaluth.com/programmazione/java/java-classe-string-stringhe-di-caratteri/
 - https://docs.oracle.com/javase/7/docs/api/java/lang/String.html
-
-## GitHub Classroom  
-Deadline: 15/03/2020 23:00  
-Link per accedere all'esercitazione su GitHub Classroom:  
-https://classroom.github.com/a/kHZlrtNM
-
-Per ogni esercizio proposto fare un progetto con NetBeans 8.2  
-Il progetto va creato direttamente nel repository dell'esercitazione.  
